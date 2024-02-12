@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/Infrastructure/Defaults/index.html",
+      "PackagePath": "staticwebassets/Infrastructure/Defaults/index.html"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/Infrastructure/Functions/index.html",
+      "PackagePath": "staticwebassets/Infrastructure/Functions/index.html"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/Infrastructure/MailTemplates/MAIL.TEMPLATE.BODY.html",
+      "PackagePath": "staticwebassets/Infrastructure/MailTemplates/MAIL.TEMPLATE.BODY.html"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/Infrastructure/MailTemplates/index.html",
+      "PackagePath": "staticwebassets/Infrastructure/MailTemplates/index.html"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/Infrastructure/index.html",
+      "PackagePath": "staticwebassets/Infrastructure/index.html"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/css/custom.css",
+      "PackagePath": "staticwebassets/css/custom.css"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/images/index.html",
+      "PackagePath": "staticwebassets/images/index.html"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/js/jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/WebAPI/wwwroot/uploads/index.html",
+      "PackagePath": "staticwebassets/uploads/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

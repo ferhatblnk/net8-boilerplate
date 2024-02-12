@@ -1,0 +1,17 @@
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/bin/Debug/net8.0/Entities.dll
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/bin/Debug/net8.0/Core.dll
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/bin/Debug/net8.0/Core.pdb
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/bin/Debug/net8.0/en/Core.resources.dll
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/bin/Debug/net8.0/tr/Core.resources.dll
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.csproj.AssemblyReference.cache
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.csproj.CopyComplete
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.dll
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/ferhattalhabulanik/Documents/Repos/backend_netcore-master/src/Entities/obj/Debug/net8.0/ref/Entities.dll
